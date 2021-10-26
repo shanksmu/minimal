@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="center"> Shashank Bhardwaj </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/shashankbhardwaj/">LinkedIn</a> |
+  <a href="https://github.com/shanksmu">GitHub</a>
+  
+  <br>   
+  I am a Senior Leader in Cyber and Enterprise Security, Web Performance domain.
+  I work towards providing security and performance solutions to customers. 
+  I'm exploring Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Working with Akamai and leading a global professional services team
+  Have 13+ years of industry experience
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
